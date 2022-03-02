@@ -1,0 +1,12 @@
+{
+  "homepage": "https://silverhoodlum.github.io/mock_api_rsa",
+  "scripts": {
+    "start": "json-server --watch db.json --port 8000"
+  },
+  "dependencies": {
+    "json-server": "0.16.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
